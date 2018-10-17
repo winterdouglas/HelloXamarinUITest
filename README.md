@@ -1,5 +1,5 @@
 # HelloXamarinUITest
-A small sample app that uses Xamarin UITests framework
+A small sample app that uses Xamarin UITest framework
 
 ### To run the tests on AppCenter Test
 
